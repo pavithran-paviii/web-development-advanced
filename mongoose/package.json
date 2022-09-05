@@ -1,0 +1,25 @@
+{
+  "name": "web-development-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavithran-paviii/web-development-advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavithran-paviii/web-development-advanced/issues"
+  },
+  "homepage": "https://github.com/pavithran-paviii/web-development-advanced#readme",
+  "dependencies": {
+    "mongoose": "^6.5.4",
+    "nodemon": "^2.0.19"
+  }
+}
