@@ -18,9 +18,6 @@ async function newUser() {
       age: 25,
     });
 
-    user.name = "pavithran";
-    user.age = "23";
-    user.save();
     console.log(user, "created user");
   } catch (error) {
     console.log(error.message);
